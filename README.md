@@ -21,6 +21,8 @@
 <ul><b>Hackerrank:</b> https://www.hackerrank.com/Ishmam_Rahman</ul>
 <ul><b>AtCoder:</b> https://atcoder.jp/users/Ishmam_Rahman</ul>
 <ul><b>LeetCode:</b> https://leetcode.com/ishmam64/</ul>
+<ul><b>CodeChef:</b> https://www.codechef.com/users/ishmam_rahman</ul>
+<ul><b>LightOJ:</b> https://lightoj.com/user/ishmam64</ul>
 <ul><b>Facebook:</b> https://www.facebook.com/chowdhurymd.ishmamrahman.3/</ul>
 
 ## Goal: To establish myself in the ocean of new technologies where I can work with anyone, anything. 
